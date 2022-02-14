@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = bidard.clement.84@hotmail.com
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
 	name = bidard clement
